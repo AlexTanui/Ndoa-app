@@ -51,7 +51,7 @@ echo "<script>alert('Invalid Details');</script>";
         <div class="row no-gutters">
           <div class="col-lg-5">
             <div>
-              <h2>OMRS</h2>
+              <h2>NDOA</h2>
               <p>Welcome to User panel </p>
               <p>We hope you have a fantastic time using our interface and find it useful in achieving your goals. Thank you for choosing us as your platform of choice.</p>
 
